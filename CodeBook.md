@@ -18,4 +18,4 @@
 * dataset - merged measurement, activity and subject data  
 * dataset_final - contains the tidy data formed from melting and casting  
 
-The final dataset contains 4 variables: subject, activity, measure, average
+## The final dataset contains 4 variables: subject, activity, measure, average
