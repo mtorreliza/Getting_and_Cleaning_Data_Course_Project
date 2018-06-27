@@ -2,7 +2,7 @@
 
 ## Tables Definition
 
-..* subject_test - contains subjects of the test experiment  
+* subject_test - contains subjects of the test experiment  
 X_test - contains all the observations for test  
 y_test - contains the activity data for test  
 subject_train - contains subjects of the train experiment  
