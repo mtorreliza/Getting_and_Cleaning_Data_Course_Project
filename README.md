@@ -1,10 +1,10 @@
 # Getting and Cleaning Data Course Project
 
-==================================================================================================
 This project is in compliance with the requirement in completing Getting and Cleaning Data Course
-This repo contains 2 files namely: run_analysis.R and CodeBook.md
-==================================================================================================
 
+This repo contains 2 files namely: run_analysis.R and CodeBook.md
+
+=============================================================
 run_analysis.R (R Script)
 
 This explains the R script step by step.
