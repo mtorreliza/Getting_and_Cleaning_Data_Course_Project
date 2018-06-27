@@ -4,9 +4,9 @@ This project is in compliance with the requirement in completing Getting and Cle
 
 This repo contains 2 files namely: run_analysis.R and CodeBook.md
 
-=============================================================
+===============================================================================================  
 
-** run_analysis.R (R Script)
+## run_analysis.R (R Script)
 
 This explains the R script step by step.
 
@@ -37,7 +37,7 @@ variable for each activity and each subject
   Melt the data again to create the final tidy data set
   
   
-** CodeBook.md
+## CodeBook.md
 
 Explains all the tables and datasets used
 
