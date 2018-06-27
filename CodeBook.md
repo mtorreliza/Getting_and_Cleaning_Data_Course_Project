@@ -1,8 +1,6 @@
-=====================
+# This codebook explains all tables, datasets, vriable names used in this project
 
-This codebook explains all tables, datasets, vriable names used in this project
-
-#Tables Definition
+## Tables Definition
 
 subject_test - contains subjects of the test experiment
 
