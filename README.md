@@ -35,4 +35,7 @@ This explains the R script step by step.
   Use library(reshape2) to melt column variable names into columns.
   Use dcast to get the mean/average by subject, activity and variable name.
   Melt the data again to create the final tidy data set
+  
+CodeBook.md
+Explains all the tables and datasets used
 
