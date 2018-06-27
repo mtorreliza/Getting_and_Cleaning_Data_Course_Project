@@ -6,7 +6,7 @@ This repo contains 2 files namely: run_analysis.R and CodeBook.md
 
 =============================================================
 
-run_analysis.R (R Script)
+**run_analysis.R (R Script)
 
 This explains the R script step by step.
 
@@ -36,6 +36,8 @@ This explains the R script step by step.
   Use dcast to get the mean/average by subject, activity and variable name.
   Melt the data again to create the final tidy data set
   
-CodeBook.md
+  
+**CodeBook.md
+
 Explains all the tables and datasets used
 
