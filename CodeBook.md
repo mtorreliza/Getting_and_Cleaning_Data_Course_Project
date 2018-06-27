@@ -1,9 +1,8 @@
-# This codebook explains all tables, datasets, vriable names used in this project
+## This codebook explains all tables, datasets, variable names used in this project
 
 ## Tables Definition
 
 subject_test - contains subjects of the test experiment
-
 X_test - contains all the observations for test
 
 y_test - contains the activity data for test
@@ -18,7 +17,7 @@ activity_labels - contains activity descriptive names
 
 features - contains all variable names for all observations
 
-#Datasets
+## Datasets
 
 measurement - merged test and train data observations (X_test,y_test)
 
