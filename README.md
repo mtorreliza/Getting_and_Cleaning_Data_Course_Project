@@ -5,6 +5,7 @@ This project is in compliance with the requirement in completing Getting and Cle
 This repo contains 2 files namely: run_analysis.R and CodeBook.md
 
 =============================================================
+
 run_analysis.R (R Script)
 
 This explains the R script step by step.
